@@ -1,2 +1,2 @@
 # ChurnModelling
-This project contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.
+This project focuses on analyzing customer churn data to identify key patterns and trends. Using Python, we perform data loading, exploration, and preprocessing to understand factors influencing customer retention. We leverage visualization techniques with Matplotlib and Seaborn to gain insights into churn behavior. The goal is to prepare and refine the dataset for future predictive modeling or business intelligence reporting.
